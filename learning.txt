@@ -1,0 +1,1 @@
+I learned how to navigate GitHub. I also learned how to use various git commands and functions such as commit, pull, fork, etc.
